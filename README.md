@@ -11,7 +11,7 @@
 - 🎓 Estudante de **Engenharia de Software** (5º período)
 - 💻 Desenvolvedor **Fullstack** com foco em aplicações web modernas
 - 🎨 Gosto de unir lógica de backend com interfaces bonitas, responsivas e animadas
-- ☕ Programo melhor com café e música no fundo (ou às vezes no modo caos mesmo 😅)
+- ☕ Programo melhor com café e música no fundo
 
 ---
 
@@ -27,11 +27,10 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![EJS](https://img.shields.io/badge/-EJS-000000?style=flat-square&logo=ejs&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-cc6699?style=flat-square&logo=sass)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
