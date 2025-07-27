@@ -25,7 +25,7 @@
 
 ### 🖥️ Meu portfólio
 
-[![Banner Pedro Silva](https://pedrojs.vercel.app/banner-github.png)](https://pedrojs.vercel.app/)
+[![Portfólio](https://pedrojs.vercel.app/banner-github.png)](https://pedrojs.vercel.app/)
 
 ---
 
