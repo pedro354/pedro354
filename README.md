@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pedro354/pedro354/main/banner.png" alt="Banner Pedro Silva" style="max-width: 100%; border-radius: 12px;" />
-</div>
-
 <h1 align="center">Hello, World! 👨‍💻</h1>
 
 <p align="center">
