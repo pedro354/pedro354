@@ -1,4 +1,9 @@
-<h1 align="center">Fala, devs! Eu sou o Pedro 👨‍💻</h1>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pedro354/pedro354/main/banner.png" alt="Banner Pedro Silva" style="max-width: 100%; border-radius: 12px;" />
+</div>
+
+<h1 align="center">Hello, World! 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Engenharia+de+Software+em+formação;Desenvolvedor+Fullstack+JavaScript;Café+%2B+Código+%3D+❤️" />
