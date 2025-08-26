@@ -19,7 +19,7 @@
 
 | Projeto | Descrição |
 |--------|-----------|
-| ✅ [`todo-list`](https://github.com/pedro354/todo-list) | Lista de tarefas com autenticação, responsividade, mensagens de sistema e estilização com SCSS |
+| ✅ [`todo-list + Login`](https://github.com/pedro354/todo_list) | Lista de tarefas com autenticação, responsividade, mensagens de sistema e estilização com SCSS | 
 
 ---
 
