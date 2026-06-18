@@ -14,7 +14,6 @@
 
 🛠️ Desenvolvendo aplicações com Node.js, TypeScript, PostgreSQL e Prisma ORM
 
-📚 Atualmente estudando Python, IA, Docker e Arquitetura de Software
 
 ☕ Café, música e código fazem parte do processo
 <p>
@@ -27,22 +26,15 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=3776AB" />
 </p>
 
+📚 Atualmente estudando Python, IA, Docker e Arquitetura de Software
+
 ---
 
 ## 🏥 Projeto Principal
 
 ### Sistema de Gestão para Clínicas Psicológicas
 
-Projeto fullstack voltado para o gerenciamento de pacientes, psicólogos, consultas e regras de negócio.
-
-**Tecnologias utilizadas:**
-
-* Node.js
-* TypeScript
-* PostgreSQL
-* Prisma ORM
-* React
-* Vite
+Projeto fullstack voltado para gerenciamento de pacientes, psicólogos, consultas e regras de negócio.
 
 **Funcionalidades em desenvolvimento:**
 
@@ -75,8 +67,7 @@ Aplicação desenvolvida para gerenciamento de tarefas, autenticação de usuár
 
 ## 🎯 Objetivo
 
-Construir soluções robustas aplicando conceitos de Engenharia de Software, arquitetura backend e inteligência artificial.
-
+Construir sistemas escaláveis aplicando conceitos de Engenharia de Software, arquitetura backend e inteligência artificial, evoluindo continuamente como desenvolvedor.
 ---
 
 ## 📊 Estatísticas GitHub
