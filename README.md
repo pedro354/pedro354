@@ -6,13 +6,13 @@
   <img src="https://img.shields.io/badge/Python-IA-yellow?style=flat-square" />
 </p>
 
-🎓 Estudante de Engenharia de Software
+🎓 Fazedor de Engenharia de Software
 
 💻 Foco em Back-End, Arquitetura de Software e Inteligência Artificial
 
 🚀 Atualmente desenvolvendo um Sistema de Gestão para Clínicas Psicológicas
 
-🛠️ Desenvolvendo aplicações com Node.js, TypeScript, PostgreSQL e Prisma ORM
+🛠️ Desenvolvo APIs e sistemas web com Node.js, TypeScript, PostgreSQL e Prisma, focado em arquitetura e regras de negócio
 
 
 ☕ Café, música e código fazem parte do processo
